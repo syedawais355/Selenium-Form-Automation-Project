@@ -43,11 +43,17 @@ python main.py
 
 The script will launch a new browser window, perform the automated form filling, and then close the browser after a short delay.
 
-Output images :
+Output  :
+
+
+
+https://github.com/user-attachments/assets/dc448979-2bb9-473c-bfd3-471689d57a55
 
 
 
 Contributing:
+
+
 Contributions are welcome! If you have any suggestions or improvements, feel free to fork the repository and open a pull request.
 
 1.  Fork the Project

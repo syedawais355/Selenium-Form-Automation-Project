@@ -29,7 +29,7 @@ Installation:
 2.  It's highly recommended to use a virtual environment:
     python -m venv venv
     source venv/bin/activate
-    # On Windows, use venv\Scripts\activate
+    make sure ( On Windows, use venv\Scripts\activate )
     
 
 4.  Install the necessary packages:

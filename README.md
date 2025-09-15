@@ -32,7 +32,7 @@ Installation:
     make sure ( On Windows, use venv\Scripts\activate )
     
 
-4.  Install the necessary packages:
+3.  Install the necessary packages:
     pip install -r requirements.txt
     
 
